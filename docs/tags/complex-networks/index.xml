@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Complex Networks on André Pilastri</title>
-    <link>/tags/complex-networks/</link>
+    <link>https://pilastri.github.io/homepage/tags/complex-networks/</link>
     <description>Recent content in Complex Networks on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/complex-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pilastri.github.io/homepage/tags/complex-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Segmentation of Skin in dermatoscopic images using SuperPixels combined with Complex Networks</title>
-      <link>/publication/superpixels/</link>
+      <link>https://pilastri.github.io/homepage/publication/superpixels/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/superpixels/</guid>
+      <guid>https://pilastri.github.io/homepage/publication/superpixels/</guid>
       <description></description>
     </item>
     

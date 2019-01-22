@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retail on André Pilastri</title>
-    <link>/tags/retail/</link>
+    <link>https://pilastri.github.io/homepage/tags/retail/</link>
     <description>Recent content in Retail on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/retail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pilastri.github.io/homepage/tags/retail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vision Picking</title>
-      <link>/project/vision-picking/</link>
+      <link>https://pilastri.github.io/homepage/project/vision-picking/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/vision-picking/</guid>
+      <guid>https://pilastri.github.io/homepage/project/vision-picking/</guid>
       <description>How can we use Deep Learning to potentiate the retail industry? Maintaining steady productivity and meeting customer demands throughout the year is a growing challenge in the logistics industry, especially with the explosive growth of e-Commerce. Vision Picking is an innovative way to increase the agility of your supply chain by employing the latest Deep learning technology in your warehousing operations.
 When it comes to supplying chain operations, the vast majority of warehouses in the developed world still use a pick-by-paper approach.</description>
     </item>

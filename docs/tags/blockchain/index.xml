@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on André Pilastri</title>
-    <link>/tags/blockchain/</link>
+    <link>https://pilastri.github.io/homepage/tags/blockchain/</link>
     <description>Recent content in Blockchain on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pilastri.github.io/homepage/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Marketplace Energy</title>
-      <link>/project/energy/</link>
+      <link>https://pilastri.github.io/homepage/project/energy/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/energy/</guid>
+      <guid>https://pilastri.github.io/homepage/project/energy/</guid>
       <description>REN ENERGY CHALLENGE Aliança Portuguesa de Blockchain (Finalist Project)
 How can we use the Blockchain to potentiate the National Energy Network?
 In this context, I and Danilo Jodas and more some friends decided to take part in the Challenge REN and we created:

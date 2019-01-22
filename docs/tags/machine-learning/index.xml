@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on André Pilastri</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://pilastri.github.io/homepage/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pilastri.github.io/homepage/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Science Projects</title>
-      <link>/project/data_science/</link>
+      <link>https://pilastri.github.io/homepage/project/data_science/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/data_science/</guid>
+      <guid>https://pilastri.github.io/homepage/project/data_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marketplace Energy</title>
-      <link>/project/energy/</link>
+      <link>https://pilastri.github.io/homepage/project/energy/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/energy/</guid>
+      <guid>https://pilastri.github.io/homepage/project/energy/</guid>
       <description>REN ENERGY CHALLENGE Aliança Portuguesa de Blockchain (Finalist Project)
 How can we use the Blockchain to potentiate the National Energy Network?
 In this context, I and Danilo Jodas and more some friends decided to take part in the Challenge REN and we created:
@@ -35,10 +35,10 @@ Dinamis platform is a marketplace for the energy sector that integrates producer
     
     <item>
       <title>Synthetic Images</title>
-      <link>/project/image_sintetic/</link>
+      <link>https://pilastri.github.io/homepage/project/image_sintetic/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/image_sintetic/</guid>
+      <guid>https://pilastri.github.io/homepage/project/image_sintetic/</guid>
       <description> Study construction!! </description>
     </item>
     

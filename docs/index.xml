@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>André Pilastri on André Pilastri</title>
-    <link>/</link>
+    <link>https://pilastri.github.io/homepage/</link>
     <description>Recent content in André Pilastri on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/homepage/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Computer Vision Projects</title>
-      <link>/project/computer_vision/</link>
+      <link>https://pilastri.github.io/homepage/project/computer_vision/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/computer_vision/</guid>
+      <guid>https://pilastri.github.io/homepage/project/computer_vision/</guid>
       <description>&lt;p&gt;This is project&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Science Projects</title>
-      <link>/project/data_science/</link>
+      <link>https://pilastri.github.io/homepage/project/data_science/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/data_science/</guid>
+      <guid>https://pilastri.github.io/homepage/project/data_science/</guid>
       <description>&lt;!---
 
 https://github.com/ujjwalkarn/DataSciencePython
@@ -46,10 +46,10 @@ For more information click [Here](https://github.com/pilastri).
     
     <item>
       <title>Vision Picking</title>
-      <link>/project/vision-picking/</link>
+      <link>https://pilastri.github.io/homepage/project/vision-picking/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/vision-picking/</guid>
+      <guid>https://pilastri.github.io/homepage/project/vision-picking/</guid>
       <description>
 
 &lt;h3 id=&#34;how-can-we-use-deep-learning-to-potentiate-the-retail-industry&#34;&gt;How can we use Deep Learning to potentiate the retail industry?&lt;/h3&gt;
@@ -101,10 +101,10 @@ The operator executes the prior steps until the batch of orders is completed.&lt
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://pilastri.github.io/homepage/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://pilastri.github.io/homepage/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -121,10 +121,10 @@ The operator executes the prior steps until the batch of orders is completed.&lt
     
     <item>
       <title>Marketplace Energy</title>
-      <link>/project/energy/</link>
+      <link>https://pilastri.github.io/homepage/project/energy/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/energy/</guid>
+      <guid>https://pilastri.github.io/homepage/project/energy/</guid>
       <description>
 
 &lt;h3 id=&#34;ren-energy-challenge&#34;&gt;REN ENERGY CHALLENGE&lt;/h3&gt;
@@ -141,10 +141,10 @@ The operator executes the prior steps until the batch of orders is completed.&lt
     
     <item>
       <title>Synthetic Images</title>
-      <link>/project/image_sintetic/</link>
+      <link>https://pilastri.github.io/homepage/project/image_sintetic/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/image_sintetic/</guid>
+      <guid>https://pilastri.github.io/homepage/project/image_sintetic/</guid>
       <description>
 
 &lt;h1 id=&#34;study-construction&#34;&gt;Study construction!!&lt;/h1&gt;
@@ -153,47 +153,47 @@ The operator executes the prior steps until the batch of orders is completed.&lt
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://pilastri.github.io/homepage/project/internal-project/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/internal-project/</guid>
+      <guid>https://pilastri.github.io/homepage/project/internal-project/</guid>
       <description>&lt;p&gt;Aqui irei descrever os projetos internos que executei durante toda a minha carreira&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Segmentation of Skin in dermatoscopic images using SuperPixels combined with Complex Networks</title>
-      <link>/publication/superpixels/</link>
+      <link>https://pilastri.github.io/homepage/publication/superpixels/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/superpixels/</guid>
+      <guid>https://pilastri.github.io/homepage/publication/superpixels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data mining and social  network analysis for personalized paper retriever: A Case study in ArXiv</title>
-      <link>/publication/data_mining/</link>
+      <link>https://pilastri.github.io/homepage/publication/data_mining/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/data_mining/</guid>
+      <guid>https://pilastri.github.io/homepage/publication/data_mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Kernels for Support Vector Machines with Polynomial Powers of Sigmoid</title>
-      <link>/publication/pps/</link>
+      <link>https://pilastri.github.io/homepage/publication/pps/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
       
-      <guid>/publication/pps/</guid>
+      <guid>https://pilastri.github.io/homepage/publication/pps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://pilastri.github.io/homepage/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://pilastri.github.io/homepage/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthetic on André Pilastri</title>
-    <link>/tags/synthetic/</link>
+    <link>https://pilastri.github.io/homepage/tags/synthetic/</link>
     <description>Recent content in Synthetic on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 - André Pilastri</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/synthetic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pilastri.github.io/homepage/tags/synthetic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Synthetic Images</title>
-      <link>/project/image_sintetic/</link>
+      <link>https://pilastri.github.io/homepage/project/image_sintetic/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/image_sintetic/</guid>
+      <guid>https://pilastri.github.io/homepage/project/image_sintetic/</guid>
       <description> Study construction!! </description>
     </item>
     
