@@ -21,26 +21,27 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Coursera - In Progress"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2019-01-17"
   date_end = ""
   description = ""
 
 [[item]]
   title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
+  organization = "edX - In starting"
+  #certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
   date_end = ""
   description = ""
-  
+
++++
+<!---  
 [[item]]
-  title = "Intro to Python"
+  title = "Blockchain: Understanding Its Uses and Implications"
   organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
+  #certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
-+++
+-->

@@ -1,33 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
-    <link>https://pilastri.github.io/homepage/project/</link>
-    <description>Recent content in Projects on Academic</description>
+    <title>Projects on André Pilastri</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2019 - André Pilastri</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pilastri.github.io/homepage/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>https://pilastri.github.io/homepage/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Computer Vision Projects</title>
+      <link>/project/computer_vision/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pilastri.github.io/homepage/project/external-project/</guid>
+      <guid>/project/computer_vision/</guid>
+      <description>This is project</description>
+    </item>
+    
+    <item>
+      <title>Data Science Projects</title>
+      <link>/project/data_science/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/data_science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://pilastri.github.io/homepage/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Vision Picking</title>
+      <link>/project/vision-picking/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pilastri.github.io/homepage/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>/project/vision-picking/</guid>
+      <description>How can we use Deep Learning to potentiate the retail industry? Maintaining steady productivity and meeting customer demands throughout the year is a growing challenge in the logistics industry, especially with the explosive growth of e-Commerce. Vision Picking is an innovative way to increase the agility of your supply chain by employing the latest Deep learning technology in your warehousing operations.
+When it comes to supplying chain operations, the vast majority of warehouses in the developed world still use a pick-by-paper approach.</description>
+    </item>
+    
+    <item>
+      <title>Marketplace Energy</title>
+      <link>/project/energy/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/energy/</guid>
+      <description>REN ENERGY CHALLENGE Aliança Portuguesa de Blockchain (Finalist Project)
+How can we use the Blockchain to potentiate the National Energy Network?
+In this context, I and Danilo Jodas and more some friends decided to take part in the Challenge REN and we created:
+Dinamis platform is a marketplace for the energy sector that integrates producers, traders and consumers in a single environment of peer-to-peer (P2P) transactions. The proposal aims at the concentration of all the intermediaries of the energy sector in a single platform that uses the blockchain technology.</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Images</title>
+      <link>/project/image_sintetic/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/image_sintetic/</guid>
+      <description> Study construction!! </description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>Aqui irei descrever os projetos internos que executei durante toda a minha carreira</description>
     </item>
     
   </channel>

@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-09T18:34:55
 
 title = "Recent Publications"
 subtitle = ""
@@ -12,7 +12,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 4
 
 # List format.
 #   0 = Simple
@@ -35,5 +35,7 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
+
 +++
+
 

@@ -1,41 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>https://pilastri.github.io/homepage/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on André Pilastri</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on André Pilastri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2019 - André Pilastri</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://pilastri.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>https://pilastri.github.io/homepage/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Blockchain</title>
+      <link>/tags/blockchain/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://pilastri.github.io/homepage/tags/academic/</guid>
+      <guid>/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex Networks</title>
+      <link>/tags/complex-networks/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crawler</title>
+      <link>/tags/crawler/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/data-analysis/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Sciences</title>
+      <link>/tags/data-sciences/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-sciences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://pilastri.github.io/homepage/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pilastri.github.io/homepage/tags/deep-learning/</guid>
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://pilastri.github.io/homepage/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Energy</title>
+      <link>/tags/energy/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://pilastri.github.io/homepage/tags/demo/</guid>
+      <guid>/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel</title>
+      <link>/tags/kernel/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPS</title>
+      <link>/tags/pps/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/pps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail</title>
+      <link>/tags/retail/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>/tags/svm/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin</title>
+      <link>/tags/skin/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/skin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network</title>
+      <link>/tags/social-network/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/social-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superpixels</title>
+      <link>/tags/superpixels/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/superpixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic</title>
+      <link>/tags/synthetic/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/synthetic/</guid>
       <description></description>
     </item>
     

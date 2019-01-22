@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-09T18:34:55
 
 # Order that this section will appear in.
 weight = 5
@@ -11,30 +11,40 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Blockchain",
+    "Computer Vision",
+    "Complex Networks",
+    "Deep Learning",
+    "SuperPixels"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Ph.D. Candidate in Informatics Engineering, In Progress"
+  institution = "Faculty of Engineering of the University of Porto"
+  year = 2015
+
+[[education.courses]]
+  course = "M.Sc. of Computer Science"
+  institution = "UNESP - São Paulo State University - Brazil"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = " Specialization Course in Project Management - PMI"
+  institution = "Centro Universitário Senac - Brazil "
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "B.Sc. of Computer Science"
+  institution = "Universidade do Sagrado Coração - Brazil "
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate working under the guidance of [Prof.João Tavares](https://web.fe.up.pt/~tavares/) in Informatics Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.Inicial). With over 5 years of experience developing research projects in Data Science and Computer Vision, my career goal is to master best practices, trends and new technologies, bringing creative ideas to life.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Besides research, I am an avid attendee of industry conferences and workshops and am always interested in sharing and networking.
+
+My curriculum vitae is available {{% staticref "files/APILASTRI_CV.pdf" "newtab" %}}here{{% /staticref %}}.
